@@ -6,8 +6,8 @@ Puedes encontrar un resumen de mi experiencia laboral, educación y habilidades 
 
 ## Educación
 
-GCSE, As-level & A-level Cambridge Assesment Education - [The Birtish College](https://thebritishcollege.com/)
-Grado en ingeniería informática - [Universidad Camilo José Cela](https://www.ucjc.edu/grados/ingenieria-informatica/)
+GCSE, As-level & A-level Cambridge Assesment Education - [The Birtish College](https://thebritishcollege.com/).
+Grado en ingeniería informática - [Universidad Camilo José Cela](https://www.ucjc.edu/grados/ingenieria-informatica/).
 
 
 
