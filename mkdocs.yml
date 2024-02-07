@@ -1,0 +1,7 @@
+theme: windmill-dark
+
+site_name: Mi Currículum
+nav:
+    - Inicio: index.md
+    - Biografía: biografia.md
+    - CV: cv.md
